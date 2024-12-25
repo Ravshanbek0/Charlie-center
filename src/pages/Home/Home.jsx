@@ -16,7 +16,7 @@ function Home() {
         <div className='pt-[69px]  overflow-hidden'>
             <header className='lg:w-[1280px] px-3 lg:m-auto  flex lg:flex-row justify-center items-center lg:justify-between flex-col'>
                 <div className='lg:w-[580px] mb-7 lg:mb-0'>
-                    <h1 className='lg:text-6xl font-bold md:text-4xl text-2xl text-center lg:text-left'>
+                    <h1 className='lg:text-6xl font-bold md:text-4xl text-4xl text-center lg:text-left'>
                         Getting Quality Education is now more Easy
                     </h1>
                     <p className='md:text-lg text-sm mt-8 mb-8 text-[#565A5B] text-center lg:text-left'>is a long established fact that a reader will be distracted by the readable content of a page when looking  </p>
