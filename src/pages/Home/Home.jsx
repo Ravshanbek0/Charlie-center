@@ -162,7 +162,7 @@ function Home() {
 
             </section>
             <footer className='bg-[#0166FF] w-full lg:pt-[130px] pt-8 pb-4'>
-                <div className='flex flex-col xl:flex-row  w-ful max-w-[1280px] m-auto justify-between text-white gap-4'>
+                <div className='flex flex-col lg:flex-row  w-ful max-w-[1280px] m-auto justify-between text-white gap-4'>
                     <div className='flex justify-around lg:w-1/2'>
                         <div className='flex flex-col gap-4'>
                             <div className='flex items-center gap-2'>
